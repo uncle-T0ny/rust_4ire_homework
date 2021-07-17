@@ -6,3 +6,5 @@ Cargo.lock
 **/*.rs.bk
 
 target
+area/target
+volume/target
